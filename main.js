@@ -32,6 +32,8 @@ gend.style.color="pink";
         gend.style.color="blue"
 }
     body.appendChild(gend)
+
+    
     let p = document.createElement("p");
     p.innerText = img.imgUrl;
     p.innerText = ` Image Url : ${img.imgUrl}`;
