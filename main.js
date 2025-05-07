@@ -3,21 +3,21 @@ let students = [
 name: "rana",
 age:24,
 gender:"femal",
-imgUrl:"./Screenshot 2025-04-30 134600.png",
+imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw0ZdPyuhBjioRQuf4GzQLa2&ust=1746702164659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDd0OKakY0DFQAAAAAdAAAAABAE",
     },
 {
 name: "dema",
 gender:"male",
 age:30,
 imgUrl:
-"./Screenshot 2025-05-01 104944.png",
+"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw0ZdPyuhBjioRQuf4GzQLa2&ust=1746702164659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDd0OKakY0DFQAAAAAdAAAAABAE",
 },
 {
 name: "aisha",
 age:20,
 gender:"femal",
 imgUrl:
-"./Screenshot 2025-05-01 104944.png",
+"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw0ZdPyuhBjioRQuf4GzQLa2&ust=1746702164659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDd0OKakY0DFQAAAAAdAAAAABAE",
     },
   ];
   
