@@ -34,8 +34,10 @@ gend.style.color="pink";
     body.appendChild(gend)
 
     
-    let p = document.createElement("p");
+    let p = document.createElement("img");
     p.innerText = img.imgUrl;
+    p.src=img.imgUrl;
+    p.style.width="100px";
     p.innerText = ` Image Url : ${img.imgUrl}`;
     body.appendChild(p);
   });
