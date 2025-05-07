@@ -3,21 +3,21 @@ let students = [
 name: "rana",
 age:24,
 gender:"femal",
-imgUrl:"Screenshot 2025-04-30 134600.png",
+imgUrl:"./Screenshot 2025-04-30 134600.png",
     },
 {
 name: "dema",
 gender:"male",
 age:30,
 imgUrl:
-"Screenshot 2025-05-01 104944.png",
+"./Screenshot 2025-05-01 104944.png",
 },
 {
 name: "aisha",
 age:20,
 gender:"femal",
 imgUrl:
-"Screenshot 2025-05-01 104944.png",
+"./Screenshot 2025-05-01 104944.png",
     },
   ];
   
